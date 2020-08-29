@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SaitejareddyTileti-0293/nxnTicTacToe/static/css/main.182da46d.chunk.css",
+    "main.js": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/main.aa43fb0c.chunk.js",
+    "main.js.map": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/main.aa43fb0c.chunk.js.map",
+    "runtime-main.js": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/runtime-main.e3f3259a.js",
+    "runtime-main.js.map": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/runtime-main.e3f3259a.js.map",
+    "static/js/2.981d4f54.chunk.js": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/2.981d4f54.chunk.js",
+    "static/js/2.981d4f54.chunk.js.map": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/2.981d4f54.chunk.js.map",
+    "index.html": "/SaitejareddyTileti-0293/nxnTicTacToe/index.html",
+    "precache-manifest.68ea106359c6e244a06f787d3c9a92aa.js": "/SaitejareddyTileti-0293/nxnTicTacToe/precache-manifest.68ea106359c6e244a06f787d3c9a92aa.js",
+    "service-worker.js": "/SaitejareddyTileti-0293/nxnTicTacToe/service-worker.js",
+    "static/css/main.182da46d.chunk.css.map": "/SaitejareddyTileti-0293/nxnTicTacToe/static/css/main.182da46d.chunk.css.map",
+    "static/js/2.981d4f54.chunk.js.LICENSE.txt": "/SaitejareddyTileti-0293/nxnTicTacToe/static/js/2.981d4f54.chunk.js.LICENSE.txt",
+    "static/media/bronze-trophy.svg": "/SaitejareddyTileti-0293/nxnTicTacToe/static/media/bronze-trophy.14587b5a.svg",
+    "static/media/dolphin.svg": "/SaitejareddyTileti-0293/nxnTicTacToe/static/media/dolphin.8592cf61.svg",
+    "static/media/golden-globe.svg": "/SaitejareddyTileti-0293/nxnTicTacToe/static/media/golden-globe.d4ac01cf.svg",
+    "static/media/silver-cup.svg": "/SaitejareddyTileti-0293/nxnTicTacToe/static/media/silver-cup.ea73e7af.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f3259a.js",
+    "static/js/2.981d4f54.chunk.js",
+    "static/css/main.182da46d.chunk.css",
+    "static/js/main.aa43fb0c.chunk.js"
+  ]
+}
